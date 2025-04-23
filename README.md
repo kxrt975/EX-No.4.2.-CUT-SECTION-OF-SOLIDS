@@ -43,6 +43,9 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![edm exp 4 2_page-0001](https://github.com/user-attachments/assets/bac80307-03c5-4e90-afac-3d72aa4dafcd)
+
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
